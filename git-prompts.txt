@@ -1,0 +1,12 @@
+git checkout main
+git pull
+
+create new branch
+git checkout -b add-server
+
+Commit
+git add .
+git commit -m "nothing new"
+
+Push bach
+git push -u origin add-server
